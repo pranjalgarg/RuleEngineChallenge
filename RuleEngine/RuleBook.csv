@@ -1,0 +1,4 @@
+SignalName,ValueType,Value,ComparisonType
+ATL1,Integer,240,greaterthan
+ATL2,String,LOW,equal
+ATL3,Datetime,25-07-2019,greaterthan
